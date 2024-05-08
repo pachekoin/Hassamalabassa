@@ -1,4 +1,4 @@
-EXTM3U 
+#EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml, https://github.com/dracohe/INTERNACIONALES/blob/master/guide.xml?raw=true"
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2023/07/evento_laligaeasports-150x150.jpg",DAZN LaLiga
 acestream://1960a9be8ae9e8c755330218eac4c5805466290a
