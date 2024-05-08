@@ -135,7 +135,7 @@ acestream://2448f1d084f440eed2fbe847e24f1c02f5659a78
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mde.png",M.D.Opción 2
 acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png",M.Liga de Campeones
+#EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png",M.Liga de Campeones
 acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png",M.L.Camp. 2
