@@ -230,3 +230,6 @@ acestream://0ec3f3786318acd8dca2588f74c3759cda76cd11
 
 #EXTINF:-1,MundoToro TV
 acestream://f763ab71f6f646e6c993f37e237be97baf2143ef
+
+#EXTINF:-1 tvg-logo="https://www.mundotoro.com/wp-content/uploads/2023/02/mundotoro-750x536.jpg" group-title="TDT" tvg-id="MundoToro FHD", MundoToro FHD
+acestream://cc316a6404e211cbd2a77369561ea911e9032d9e
