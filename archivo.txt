@@ -228,3 +228,5 @@ acestream://b897de3e62d7c6bee9ef1107d972f3d1075e03ff
 #EXTINF:-1,Real Madrid TV
 acestream://0ec3f3786318acd8dca2588f74c3759cda76cd11
 
+#EXTINF:-1,MundoToro TV
+acestream://f763ab71f6f646e6c993f37e237be97baf2143ef
