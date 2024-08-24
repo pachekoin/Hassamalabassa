@@ -1,5 +1,7 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml, https://github.com/dracohe/INTERNACIONALES/blob/master/guide.xml?raw=true"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml"
 
+#EXTINF:-1 tvg-logo="https://www.mundotoro.com/wp-content/uploads/2023/02/mundotoro-750x536.jpg" group-title="TDT" tvg-id="MundoToro FHD", MundoToro FHD
+acestream://cc316a6404e211cbd2a77369561ea911e9032d9e
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2023/07/evento_laligaeasports-150x150.jpg",DAZN LaLiga
 acestream://1960a9be8ae9e8c755330218eac4c5805466290a
 
@@ -27,13 +29,13 @@ acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dazn.png",DAZN 1
 acestream://8ca07071b39185431f8e940ec98d1add9e561639
 
-#EXTINF:-1,Opción 2
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dazn.png",DAZN 1 Opción 2
 acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dazn.png",DAZN 2
 acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc
 
-#EXTINF:-1,Opción 2
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dazn.png",DAZN 2 Opción 2
 acestream://7aa402bab9fff43258fbcf401881a39475f30aaf
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dazn.png",DAZN 3
@@ -45,10 +47,10 @@ acestream://e454681a152a86da504e63694f17f90d0586867d
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2023/07/daznf1.png",DAZN F1
 acestream://5789ca155323664edd293b848606688edf803f4d
 
-#EXTINF:-1,Opción 2
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2023/07/daznf1.png",DAZN F1 Opción 2
 acestream://9dad717d99b29a05672166258a77c25b57713dd5
 
-#EXTINF:-1,Opción 3
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2023/07/daznf1.png",DAZN F1 Opción 3
 acestream://e1fcad9de0c782c157fde6377805c58297ab65c2
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/FEF_TV_Logo.png/120px-FEF_TV_Logo.png",FEF TV 1
@@ -69,7 +71,7 @@ acestream://8c92cfef8dd37e2dd2d3b8985b81cc7708e24d3c
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/laligatvbar.png",LaLiga TV Bar
 acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
 
-#EXTINF:-1,Opción 2
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/laligatvbar.png",LaLiga TV Bar Opción 2
 acestream://512aeadf50d91603d15b32f1e408166536ec4ac9
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png",M.LaLiga TV
@@ -78,16 +80,16 @@ acestream://1969c27658d4c8333ab2c0670802546121a774a5
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png",M.LaLiga TV 2
 acestream://26029f72a4ca831d09deefe89534818db1d105bc
 
-#EXTINF:-1,Opción 2
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png",M.LaLiga TV 2 Opción 2
 acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png",M.L.2.Opción 2
 acestream://80126b240f3e4e004754fd8f8103e857ab2556a0
 
-#EXTINF:-1,Opción 3
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png",M.L.2.Opción 2 Opción 3
 acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
 
-#EXTINF:-1,Opción 4
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png",M.L.2.Opción 2 Opción 4
 acestream://f031f5728b32f6089dda28edebe990cf198108d8
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2023/07/evento_laligahypermotion.jpg",LaLiga Hyper TV
@@ -96,10 +98,10 @@ acestream://4c46585214b23b1d802ef2168060c7649a3894cf
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2023/07/evento_laligahypermotion.jpg",LaLiga Hyper 2
 acestream://d81b4f2f3fde433539c097b2edc9b587ca47b087
 
-#EXTINF:-1,Opción 2
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2023/07/evento_laligahypermotion.jpg",LaLiga Hyper 2 Opción 2
 acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
 
-#EXTINF:-1,Opción 2
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2023/07/evento_laligahypermotion.jpg",LaLiga Hyper 2 Opción 2
 acestream://2709d0ab86cb6ce7ba4d3ad188d7fa80668f2924
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/vamos.png",M.#Vamos
@@ -177,22 +179,22 @@ acestream://bb50397b3f49167eed95264005fae851baa7e3ee
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png",M.L.Camp. 13
 acestream://60296c246e3596f334903fefd48cfaa724a5053b
 
-#EXTINF:-1,Opción 2
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png",M.L.Camp. 13 Opción 2
 acestream://1d79a7543d691666135669f89f3541f54e2dd0a9
 
-#EXTINF:-1,Opción 2
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png",M.L.Camp. 13 Opción 2
 acestream://6753492c1908274c268a1b28e2a054a0ff8f86f9
 
-#EXTINF:-1,Opción 2
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png",M.L.Camp. 13 Opción 2
 acestream://d59fe9978eed49f256b312a60671b5bce43d3f24
 
-#EXTINF:-1,Opción 3
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png",M.L.Camp. 13 Opción 3
 acestream://931b1984badcb821df7b47a66ac0835ac871b51c
 
-#EXTINF:-1,Opción 4
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png",M.L.Camp. 13 Opción 4
 acestream://e2e2aca792aae5da19995ac516b1d620531bd49c
 
-#EXTINF:-1,Opción 5
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png",M.L.Camp. 13 Opción 5
 acestream://6b56c1de436327b49e429a702e81e9269630e37a
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mgo.png",Movistar Golf
@@ -201,20 +203,41 @@ acestream://4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mgo.png",Movistar Golf 2
 acestream://9a4f3ae6563668b7709dac509dedc709441b3fd9
 
-#EXTINF:-1,Opción 2
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mgo.png",Movistar Golf 2 Opción 2
 acestream://872608e734992db636eb79426802cd08f4029afb
 
-#EXTINF:-1,Tennis Channel
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mgo.png",Movistar Golf 2 Opción 3
+acestream://858b3cf2842ebe394999275e5ebb0435f1af2ae4
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mgo.png",Tennis Channel
 acestream://9292d3b32432efb56db4014933cbdec0a7cf2e36
 
 #EXTINF:-1,Eurosport 1
 acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
 
+#EXTINF:-1,Eurosport 5
+acestream://914ce366baec9b0fb3523dd7ba762a44b597fc40
+
+#EXTINF:-1,Eurosport 9
+acestream://dd9c56ef2f09753c59d9c2e2d2af31aeea6451c0
+
 #EXTINF:-1,Eurosport 2
 acestream://c373da9e901d414b7384e671112e64d5a2310c29
 
-#EXTINF:-1,Eurosport Player
-acestream://d871578fc069de543d1ed8b5e63092d870bad8ee
+#EXTINF:-1,Eurosport 6
+acestream://1bc614c5aa2a94117c13c7f0be2b8ea31b535f38
+
+#EXTINF:-1,Eurosport 3
+acestream://a62c010c71bfb76b18188f108c3cc4541c34f45e
+
+#EXTINF:-1,Eurosport 7
+acestream://e899a4f1e20f7ce1b39cc529dc237fc29a21855f
+
+#EXTINF:-1,Eurosport 4
+acestream://76a482a4cb53fc28518187c6b814f136b3db3c95
+
+#EXTINF:-1,Eurosport 8
+acestream://721a78f2076faa584c9c09059ffb4e10159f4665
 
 #EXTINF:-1,Teledeporte TDP
 acestream://e2395d28ad19423212fd3aa0e81f387db3e8bb9f
@@ -222,9 +245,11 @@ acestream://e2395d28ad19423212fd3aa0e81f387db3e8bb9f
 #EXTINF:-1,LA 1 Op.1
 acestream://02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
 
+#EXTINF:-1,LA 2
+acestream://60106275d34f995e26bb2cc4a21a42f586c6c555
+
 #EXTINF:-1,LA 1 Op.2
 acestream://b897de3e62d7c6bee9ef1107d972f3d1075e03ff
 
 #EXTINF:-1,Real Madrid TV
 acestream://0ec3f3786318acd8dca2588f74c3759cda76cd11
-
